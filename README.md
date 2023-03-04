@@ -1,4 +1,4 @@
-### Hi there Rico Alberto is here
+### Halo semuanya Rico Alberto di sini
 Ini Adalah Profil Sederhana Github saya:smile:
 
 - 🎒  &nbsp;Saat ini saya berkuliah di Universitas MDP
