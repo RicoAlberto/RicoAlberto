@@ -1,5 +1,5 @@
 ### Hi there Rico Alberto is here
-Ini Adalah Profil Sederhana Github saya:Smile:
+Ini Adalah Profil Sederhana Github saya:smile:
 
 - 🎒  &nbsp;I’m currently school in Universitas MDP
 
