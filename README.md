@@ -1,7 +1,7 @@
 ### Hi there Rico Alberto is here
 Ini Adalah Profil Sederhana Github saya:smile:
 
-- 🎒  &nbsp;I’m currently school in Universitas MDP
+- 🎒  &nbsp;Saat ini saya berkuliah di Universitas MDP
 - ![image](https://user-images.githubusercontent.com/126873251/222896383-38e5f807-d34c-4a30-892d-ae04f94246ed.png)
 - Kamu bisa melihat sekilas kampus saya di https://mdp.ac.id/
 
