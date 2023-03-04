@@ -1,5 +1,5 @@
-### Hi there <aRico Alberto is here></a>
-This is the place where I opensource stuff and break things :rofl:
+### Hi there Rico Alberto is here
+Ini Adalah Profil Sederhana Github saya:rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
